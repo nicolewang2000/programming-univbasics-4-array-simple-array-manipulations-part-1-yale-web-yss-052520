@@ -20,11 +20,11 @@ end
 
 
 def using_shift(array)
-  array.shift(string)
+  array.shift
 end
 
 
 def using_shift_with_args(array, string)
-  array.shift(2)(string)
+  array.shift(2)
 end
 
