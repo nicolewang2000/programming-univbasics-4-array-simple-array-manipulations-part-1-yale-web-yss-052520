@@ -1,6 +1,9 @@
-def using_push
+def using_push(array, string)
   
 end
 
 
-def using_
+def using_unshift(array, string)
+  
+end
+
