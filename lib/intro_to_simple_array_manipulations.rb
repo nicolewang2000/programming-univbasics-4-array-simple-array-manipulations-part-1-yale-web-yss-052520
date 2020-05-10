@@ -4,7 +4,7 @@ end
 
 
 def using_unshift(array, string)
-  array.uns
+  array.unshift(string)
 end
 
 
